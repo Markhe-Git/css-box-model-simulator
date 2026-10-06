@@ -1,4 +1,5 @@
 # css-box-model-simulator
 A basic website for simulating the css box model for better visual learning
 
-<img width="769" height="595" alt="image" src="https://github.com/user-attachments/assets/e5feb493-17f9-4456-9dcc-8b7c07229a59" />
+<img width="757" height="599" alt="image" src="https://github.com/user-attachments/assets/570ab744-f350-4a3d-9dc8-f452d1c9b2ac" />
+
